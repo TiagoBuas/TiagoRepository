@@ -1,0 +1,11 @@
+{
+  "name": "tiagorepository",
+  "version": "1.0.0",
+  "description": "\"The init for the Curso.Dev\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tiago Buas",
+  "license": "MIT"
+}
